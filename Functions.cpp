@@ -1,4 +1,4 @@
-#include "Header.h"
+#include "cometstrike.h"
 
 // Fullscreen sans resize tous les élements sur l'écran
 
